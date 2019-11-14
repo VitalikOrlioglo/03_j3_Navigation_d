@@ -1,0 +1,1 @@
+Navigation mit JSF, @ManagedBean
